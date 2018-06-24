@@ -1,0 +1,194 @@
+/*specific styles tool-4-rent!*/
+a {
+  color: #5a5a5a;
+  font-family: arial;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+li {
+  display: inline;
+}
+
+.header{
+    background-image:url(header_image.jpg);
+    height: 60px;
+    background-repeat: no-repeat;
+    background-size: 22%;
+    }
+    
+.headerList{
+    float: right;
+    }
+    
+.headerList a {
+    line-height: 45px;
+    padding-top: 15px;
+    }
+    
+.headerList a:hover {
+    line-height: 45px;
+    padding-top: 15px;
+    background-color: #ccc;
+    }
+
+    
+.mainbody {
+    background-color: #666;
+    }
+    
+.mainbodySpaceHolder {
+    height: 45px;
+    }
+    
+.mainbodyWrapper2 {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 25px;
+    padding-left: 25px;
+    width: 300px;
+    background-color: #ccc;}
+    
+.mainbodyWrapper1 {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 25px;
+    padding-left: 25px;
+    width: 680px;
+    background-color: #ccc;}
+    
+.mainbody div a {
+    padding-left: 0;
+    font-size: 20px;}
+
+.mainbody div form a {
+    padding-left: 0;
+    font-size: 14px;
+}
+
+.primaryPhone {
+    padding-left: 0;
+    font-size: 14px;
+}
+
+.mainbody div form input{
+    width: 31%;
+    height: 30px;
+    padding-left: 10px;
+    margin-top: 10px;
+    border: none;
+    line-height: 30px;
+    font-size: 14px;
+    }
+
+.mainbody div form select{
+    width: 32.5%;
+    height: 30px;
+    padding-left: 10px;
+    margin-top: 10px;
+    border: none;
+    line-height: 30px;
+    font-size: 14px;
+}
+
+.pulldown{
+    width: 209px;
+    height: 30px;
+    padding-left: 10px;
+    margin-top: 10px;
+    border: none;
+    line-height: 30px;
+    font-size: 14px;
+}
+
+
+.mainbody div form button {
+    width: 60px;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: #629cd7;
+    font-size: 14px;
+    color: #111;
+    cursor: pointer;
+}
+
+.mainbody div form button:hover {
+    background-color: #666;
+}
+
+
+.mainbody div form input[type=radio]{
+    margin: 10px 10px;
+    width: 15px;
+    height: 15px;
+    }
+
+.mainbody div form span {
+    color: red;
+    padding-top: 10px;
+}
+.header_button {
+    float: right;
+    height: 60px;
+    background-color: #ccc;
+    width: 120px;
+    }
+/*
+.login_header_container {
+  background-image:url(header_image.jpg);
+  height: 60px;
+  background-repeat: no-repeat;
+  background-size: 22%;
+}
+
+.login_header_buttons {
+    position: right;
+    }
+
+.login_main_wrapper {
+    position: relative;
+    top: 100 px;
+    margin: auto;
+    width: 300px;
+    background-color: #ccc;
+    height: 300px;
+}
+
+.login_placeholder {
+    position: relative;
+    margin: auto;
+    width: 500px;
+    background-color: #666;
+    height: 80px;
+    }
+    
+.main {
+    background-color: #666;
+    width: 100%;
+}
+    
+
+.login_main_wrapper form {
+    width: 240px;
+    margin: 0 auto;
+    padding-top: 10px;
+    }
+    
+.login_main_wrapper a {
+
+    padding: 14px 30px;
+    color: #5a5a5a;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    }
+    
+
+*/
