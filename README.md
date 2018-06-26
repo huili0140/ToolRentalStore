@@ -38,10 +38,10 @@ etc.
 ## 2 Database Design
 
 ### 2.1 Enhanced Entity-Relationship Diagram
-![EER Diagram](Diagrams/EER.pdf)
+![EER Diagram](Diagrams/EER.png)
 
 ### 2.2 EER to Relation Mapping
-![EER To REL Diagram](Diagrams/EER2REL.pdf)
+![EER To REL Diagram](Diagrams/EER2REL.png)
 
 
 
